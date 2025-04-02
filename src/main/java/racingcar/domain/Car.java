@@ -1,4 +1,4 @@
-package racingCar.domain;
+package racingcar.domain;
 
 import java.util.Comparator;
 import java.util.Objects;

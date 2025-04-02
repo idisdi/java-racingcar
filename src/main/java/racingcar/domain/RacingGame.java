@@ -1,7 +1,6 @@
-package racingCar.domain;
+package racingcar.domain;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class RacingGame {
     private final Cars cars;

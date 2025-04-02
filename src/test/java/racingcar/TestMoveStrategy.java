@@ -1,6 +1,6 @@
-package racingCar;
+package racingcar;
 
-import racingCar.domain.MoveStrategy;
+import racingcar.domain.MoveStrategy;
 
 public class TestMoveStrategy implements MoveStrategy {
     private final boolean movable;

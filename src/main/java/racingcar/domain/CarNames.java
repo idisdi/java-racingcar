@@ -1,9 +1,6 @@
-package racingCar.domain;
+package racingcar.domain;
 
-import java.util.Arrays;
 import java.util.List;
-import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 
 public class CarNames {
     private static final int MAX_NAME_LENGTH = 5;

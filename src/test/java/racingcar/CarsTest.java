@@ -1,10 +1,10 @@
-package racingCar;
+package racingcar;
 
 import org.junit.jupiter.api.Test;
-import racingCar.domain.Car;
-import racingCar.domain.Cars;
-import racingCar.domain.RacingGame;
-import racingCar.domain.RoundStatusDTO;
+import racingcar.domain.Car;
+import racingcar.domain.Cars;
+import racingcar.domain.RacingGame;
+import racingcar.domain.RoundStatusDTO;
 
 import java.util.List;
 

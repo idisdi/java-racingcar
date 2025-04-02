@@ -1,9 +1,8 @@
-package racingCar.view;
+package racingcar.view;
 
-import racingCar.domain.CarNames;
+import racingcar.domain.CarNames;
 
 import java.util.*;
-import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 public class InputView {

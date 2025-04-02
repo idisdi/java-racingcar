@@ -1,8 +1,8 @@
-package racingCar.controller;
+package racingcar.controller;
 
-import racingCar.domain.*;
-import racingCar.view.InputView;
-import racingCar.view.ResultView;
+import racingcar.domain.*;
+import racingcar.view.InputView;
+import racingcar.view.ResultView;
 
 import java.util.*;
 import java.util.stream.Collectors;

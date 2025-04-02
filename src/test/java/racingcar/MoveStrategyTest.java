@@ -1,8 +1,8 @@
-package racingCar;
+package racingcar;
 
 import org.junit.jupiter.api.Test;
-import racingCar.domain.Car;
-import racingCar.domain.RandomMoveStrategy;
+import racingcar.domain.Car;
+import racingcar.domain.RandomMoveStrategy;
 
 import java.util.Random;
 

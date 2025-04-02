@@ -1,6 +1,6 @@
-package racingCar.view;
+package racingcar.view;
 
-import racingCar.domain.RoundStatusDTO;
+import racingcar.domain.RoundStatusDTO;
 
 import java.util.List;
 import java.util.ArrayList;
